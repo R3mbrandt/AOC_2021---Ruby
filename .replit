@@ -1,0 +1,7 @@
+run = "ruby day_01.rb"
+
+[packager]
+language = "ruby"
+
+[packager.features]
+packageSearch = true
