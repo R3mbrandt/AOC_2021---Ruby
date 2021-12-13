@@ -1,4 +1,4 @@
-run = "ruby day_11.rb"
+run = "ruby day_13.rb"
 
 [packager]
 language = "ruby"
